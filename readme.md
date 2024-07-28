@@ -3,4 +3,4 @@ Hi guys, if you are finding an EFI folder for your specification same as me, you
 ## My specification:
 | Attempt | #1    | #2    |
 | :---:   | :---: | :---: |
-| Seconds | 301   | 283   |
+|Seconds | 301   | 283   |
