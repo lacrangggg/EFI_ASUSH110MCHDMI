@@ -14,3 +14,14 @@ Hi guys, if you are finding an EFI folder for your specification same as me, you
 | Display       | Samsung SyncMaster S22B310           |
 | Gear          | Logitech MK240 (keyboard), M221 Silent (mice)          |
 <br>
+## What's working?
+- network<br>
+- bluetooth (patched on Monterey 12+)<br>
+- Usb port
+- Sleep/wake well (sometimes my hackintosh wake and sleep immediately)
+...
+## What's not working?
+- Airdrop (non-native network card)
+...
+## Attention:
+    My EFI and latest OpenCore version may not coincident, please update it to the latest one.
