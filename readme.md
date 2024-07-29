@@ -1,15 +1,16 @@
 # HACKINTOSH ASUS H110 KABYLAKE
 Hi guys, if you are finding an EFI folder for your specification same as me, you can fork mine. If you purchased it, please demand a refund.
 ## My specification:
-|       Cpu     | #1            |
+|       Cpu     | Intel® Core i3 7100           |
 | :---:   | :---: |
-| Motherboard   | 301           |
-|     Ram       | 301           |
-|     GPU       | 301           |
-|     SSD       | 301           |
-| Network       | 301           |
-| Bluetooth     | 301           |
-|   Connector   | 301           |
-| Bootloader    | 301           |
-| Display       | 301           |
-| Gear          | 301           |
+| Motherboard   | Asus H110M-C/HDMI           |
+|     Ram       | 12GB DDR4 2400mhz Bus           |
+|     GPU       | MSI AMD Radeon RX460 2GB           |
+|     SSD       | 256GB SSD Sata3 (from Chinese brand)           |
+| Network       | Realtek RTL8111           |
+| Bluetooth     | BTA-403           |
+|   Connector   | DVI Single Link           |
+| Bootloader    | OpenCore           |
+| Display       | Samsung SyncMaster S22B310           |
+| Gear          | Logitech MK240 (keyboard), M221 Silent (mice)          |
+<br>
