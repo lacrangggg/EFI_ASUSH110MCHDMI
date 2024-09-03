@@ -523,7 +523,7 @@
                 <key>ScanPolicy</key>
                 <integer>0</integer>
                 <key>SecureBootModel</key>
-                <string>Disabled</string>
+                <string>Default</string>
                 <key>Vault</key>
                 <string>Optional</string>
             </dict>
@@ -920,7 +920,7 @@
                     <key>boot-args</key>
                     <string>-v alcid=11 -radcodec unfairgva=1 amfi=0x80</string>
                     <key>csr-active-config</key>
-                    <data>03080000</data>
+                    <data>AwgAAA==</data>
                     <key>prev-lang:kbd</key>
                     <string>en-US:0</string>
                     <key>run-efi-updater</key>

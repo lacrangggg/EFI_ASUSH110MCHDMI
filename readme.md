@@ -7,8 +7,8 @@ Hi guys, if you are finding an EFI folder for your specification same as me, you
 |     Ram       | 12GB DDR4 2400mhz Bus           |
 |     GPU       | MSI AMD Radeon RX460 2GB           |
 |     SSD       | 256GB SSD Sata3 (from Chinese brand)           |
-| Network       | Realtek RTL8111           |
-| Bluetooth     | BTA-403           |
+| Network       | Realtek RTL8111, BCM94360-2CS           |
+| Bluetooth     | BCM94360-2CS          |
 |   Connector   | DVI Single Link           |
 | Bootloader    | OpenCore           |
 | Display       | Samsung SyncMaster S22B310           |
@@ -20,9 +20,9 @@ Hi guys, if you are finding an EFI folder for your specification same as me, you
 - Sleep/wake well (sometimes my hackintosh wake and sleep immediately)<br>
 - Sync iPhone wirelessly <br>
 - iService(facetime, imessage,...)<br>
+- Airdrop, handoff
 ...
 ## What's not working?
-- Airdrop, Handoff (non-native network card)<br>
 ...
 ## Attention:
 - My EFI and latest OpenCore version may not coincident, please update it to the latest one.<br>
